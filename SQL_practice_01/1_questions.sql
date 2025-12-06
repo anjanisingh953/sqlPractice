@@ -1,0 +1,10 @@
+-- 1.1 Write a query to display all products along with their manufacturer names.
+-- 1.2 Write a query to find the most expensive product and its manufacturer.
+-- 1.3 Write a query to list all manufacturers that do NOT have any products.
+-- 1.4 Write a query to count how many products each manufacturer has.
+-- 1.5 Write a query to get the average price of all products.
+-- 1.6 Write a query to list products whose price is above the average product price.
+-- 1.7 Write a query to find the second-highest priced product.
+-- 1.8 Write a query to list all products starting with the letter ‘D’.
+-- 1.9 Write a query to show the manufacturer(s) that produce the cheapest product.
+-- 1.10 Write a query to display products grouped by manufacturer with total price sum per manufacturer.
