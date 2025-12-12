@@ -31,5 +31,6 @@ INSERT INTO Movies(Title,Rating) VALUES('One, Two, Three',NULL);
 UPDATE Movies SET Rating = 'G'WHERE Rating is NULL;
 
 
+
 -- 4.10 Remove movie theaters projecting movies rated "NC-17".
 delete from MovieTheaters where Movie in ( select Code from Movies where Rating = 'NC-17');
